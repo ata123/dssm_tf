@@ -3,15 +3,17 @@
 
 """
 dssm - tf
-    data_helper.py
+    dssm_model.py
 
-数据处理类
+dssm 类
 
 @author fengfei
 @date 2019.08.26
 
 """
 # TODO
-# 词 -> id
-# id -> 词
-# batch 产生数据
+# dssm 类实现
+# __init__ 模型实现
+# fit
+# predict
+# embedding

@@ -3,15 +3,11 @@
 
 """
 dssm - tf
-    data_helper.py
+    predict.py
 
-数据处理类
+预测脚本
 
 @author fengfei
 @date 2019.08.26
 
 """
-# TODO
-# 词 -> id
-# id -> 词
-# batch 产生数据
