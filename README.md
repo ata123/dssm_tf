@@ -1,8 +1,8 @@
 # dssm_tf
 ### Description
-The realization of DSSM, PAPAR: [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
+The realization of DSSM in Chinese, PAPAR: [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 
-[深度语义模型 DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) 的实现
+在中文场景下，[深度语义模型 DSSM](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) 的实现
 
 p.s. first try of tensorflow, if you find any mistakes, please leave messages. Thanks a million.
 
